@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'https://portal.jwc.co.ke'),
 
     'asset_url' => env('ASSET_URL'),
 
@@ -121,7 +121,7 @@ return [
     |
     */
 
-    'key' => env('APP_KEY'),
+    'key' => env('APP_KEY','ohg6cl0x4thjzr1uzud1nq1rnjsl7ezs'),
 
     'cipher' => 'AES-256-CBC',
 
