@@ -12,11 +12,9 @@
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.bunny.net/css?family=Nunito" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="{{asset('assets/css/bootstrap.min.css')}}">
 
     <!-- Scripts -->
-    <!-- @vite(['resources/sass/app.scss', 'resources/js/app.js']) -->
-    @livewireStyles
+    @vite(['resources/sass/app.scss', 'resources/js/app.js'])
 </head>
 <body>
     <div id="app">
@@ -78,10 +76,5 @@
             @yield('content')
         </main>
     </div>
-    <script type="text/javascript" src="{{ asset('assests/js/bootstrap.bundle.min.js')}}" ></script>
-    <script type="text/javascript" src="{{ asset('assests/js/jquery-3.6.1.min.js')}}" ></script>
-
-        @livewireScripts
-
 </body>
 </html>
