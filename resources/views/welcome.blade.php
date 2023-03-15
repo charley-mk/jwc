@@ -14,8 +14,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="{{URL::asset('dist/img/favicon.ico')}}">
 
     <!-- css here -->
-    <link rel="stylesheet" href="{{URL::asset('dist/css/bootstrap.min.css')}}">
-    <link rel="stylesheet" href="{{URL::asset('dist/css/bootstrap.min.css')}}">
+{{--    <link rel="stylesheet" href="{{URL::asset('dist/css/bootstrap.min.css')}}">--}}
     <link rel="stylesheet" href="{{URL::asset('dist/css/meanmenu.css')}}">
     <link rel="stylesheet" href="{{URL::asset('dist/css/animate.min.css')}}">
     <link rel="stylesheet" href="{{URL::asset('dist/css/magnific-popup.css')}}">
