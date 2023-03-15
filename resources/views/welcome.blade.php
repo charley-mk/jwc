@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="{{URL::asset('/css/scrolltop.css')}}">
     <link rel="stylesheet" href="{{URL::asset('/css/default.css')}}">
     <link rel="stylesheet" href="{{URL::asset('/css/wedget.css')}}">
-    <link rel="stylesheet" href="{{URL::asset('/css/style.css')}}">
+    <link rel="stylesheet" href="{{URL::asset('css/style.css')}}">
     <link rel="stylesheet" href="{{URL::asset('/css/responsive.css')}}">
 </head>
 
