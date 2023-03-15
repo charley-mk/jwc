@@ -13,19 +13,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="{{URL::asset('dist/img/favicon.ico')}}">
 
-    <!-- css here -->
-{{--    <link rel="stylesheet" href="{{URL::asset('dist/css/bootstrap.min.css')}}">--}}
-    <link rel="stylesheet" href="{{URL::asset('dist/css/meanmenu.css')}}">
-    <link rel="stylesheet" href="{{URL::asset('dist/css/animate.min.css')}}">
-    <link rel="stylesheet" href="{{URL::asset('dist/css/magnific-popup.css')}}">
-    <link rel="stylesheet" href="{{URL::asset('dist/css/fontawesome-all.min.css')}}">
-    <link rel="stylesheet" href="{{URL::asset('dist/css/owl.carousel.min.css')}}">
-    <link rel="stylesheet" href="{{URL::asset('dist/css/owl.theme.default.min.css')}}">
-    <link rel="stylesheet" href="{{URL::asset('dist/css/scrolltop.css')}}">
-    <link rel="stylesheet" href="{{URL::asset('dist/css/default.css')}}">
-    <link rel="stylesheet" href="{{URL::asset('dist/css/wedget.css')}}">
-    <link rel="stylesheet" href="{{URL::asset('dist/css/style.css')}}">
-    <link rel="stylesheet" href="{{URL::asset('dist/css/responsive.css')}}">
+
+    <link rel="stylesheet" href="{{URL::asset('/css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{URL::asset('/css/meanmenu.css')}}">
+    <link rel="stylesheet" href="{{URL::asset('/css/animate.min.css')}}">
+    <link rel="stylesheet" href="{{URL::asset('/css/magnific-popup.css')}}">
+    <link rel="stylesheet" href="{{URL::asset('/css/fontawesome-all.min.css')}}">
+    <link rel="stylesheet" href="{{URL::asset('/css/owl.carousel.min.css')}}">
+    <link rel="stylesheet" href="{{URL::asset('/css/owl.theme.default.min.css')}}">
+    <link rel="stylesheet" href="{{URL::asset('/css/scrolltop.css')}}">
+    <link rel="stylesheet" href="{{URL::asset('/css/default.css')}}">
+    <link rel="stylesheet" href="{{URL::asset('/css/wedget.css')}}">
+    <link rel="stylesheet" href="{{URL::asset('/css/style.css')}}">
+    <link rel="stylesheet" href="{{URL::asset('/css/responsive.css')}}">
 </head>
 
 <body class="">
