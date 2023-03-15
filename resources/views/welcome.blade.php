@@ -13,8 +13,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="{{URL::asset('dist/img/favicon.ico')}}">
 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" href="{{URL::asset('/css/bootstrap.min.css')}}">
+{{--    <link rel="stylesheet" href="{{URL::asset('/css/bootstrap.min.css')}}">--}}
     <link rel="stylesheet" href="{{URL::asset('/css/meanmenu.css')}}">
     <link rel="stylesheet" href="{{URL::asset('/css/animate.min.css')}}">
     <link rel="stylesheet" href="{{URL::asset('/css/magnific-popup.css')}}">
